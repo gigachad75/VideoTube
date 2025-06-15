@@ -1,4 +1,3 @@
-
 # VideoTube Backend
 
 This is the backend for the VideoTube application, a platform for users to upload, view, and interact with videos. This backend is built using Node.js, Express, and MongoDB.
@@ -39,3 +38,4 @@ MONGODB_URI=mongodb://localhost:27017/videotube
 JWT_SECRET=your_jwt_secret
 
 Start the server:  npm start
+
